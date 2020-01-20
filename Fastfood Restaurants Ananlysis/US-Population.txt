@@ -1,0 +1,57 @@
+California|3,95,12,223
+Texas|2,89,95,881
+Florida|2,14,77,737
+New York|1,94,53,561
+Pennsylvania|1,28,01,989
+Illinois|1,26,71,821
+Ohio|1,16,89,100
+Georgia|1,06,17,423
+North Carolina|1,04,88,084
+Michigan|99,86,857
+New Jersey|88,82,190
+Virginia|85,35,519
+Washington|76,14,893
+Arizona|72,78,717
+Massachusetts|69,49,503
+Tennessee|68,33,174
+Indiana|67,32,219
+Missouri|61,37,428
+Maryland|60,45,680
+Wisconsin|58,22,434
+Colorado|57,58,736
+Minnesota|56,39,632
+South Carolina|51,48,714
+Alabama|49,03,185
+Louisiana|46,48,794
+Kentucky|44,67,673
+Oregon|42,17,737
+Oklahoma|39,56,971
+Connecticut|35,65,287
+Utah|32,05,958
+Iowa|31,55,070
+Puerto Rico|31,93,694
+Nevada|30,80,156
+Arkansas|30,17,825
+Mississippi|29,76,149
+Kansas|29,13,314
+New Mexico|20,96,829
+Nebraska|19,34,408
+West Virginia|17,87,147
+Idaho|17,92,065
+Hawaii|14,15,872
+New Hampshire|13,59,711
+Maine|13,44,212
+Rhode Island|10,59,361
+Montana|10,68,778
+Delaware|9,73,764
+South Dakota|8,84,659
+North Dakota|7,62,062
+Alaska|7,31,545
+District of Columbia|7,05,749
+Vermont|6,23,989
+Wyoming|5,78,759
+Guam|1,65,718
+U.S. Virgin Islands|1,04,914
+American Samoa|55,641
+Northern Mariana Islands|55,194
+Colorado Springs|472,688
